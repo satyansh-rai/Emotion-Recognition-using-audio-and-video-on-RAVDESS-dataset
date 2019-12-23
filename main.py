@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu May  2 19:31:41 2019
 
-@author: ragga
-MAIN TEST FILE
-"""
 
 import sys
 from joint_feature_extractor import preprocess
